@@ -208,7 +208,8 @@ def generate_html(file_name, videos, pdfs, others):
         <div class="other-list">{other_links}</div>
     </div>
 
-    <footer>Extracted By ⌯𓍯✮⃝mr𝕮𝖍o𝖚𝖍𝖆𝖓✮⃝🚩⚝ ×͜×|</footer>
+    <footer>ᗪEᐯEᒪOᑭEᗪ ᗷY <a href="tg://openmessage?user_id=8136984784">𓍯✮⃝mr𝕮𝖍o𝖚𝖍𝖆𝖓✮⃝🚩⚝</a></div>
+<script
 
     <script src="https://vjs.zencdn.net/8.10.0/video.min.js"></script>
     <script>
