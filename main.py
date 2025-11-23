@@ -313,13 +313,13 @@ async def start(bot: Client, m: Message):
             if not is_authorized:
                 await m.reply_photo(
                     photo=photologo,
-                    caption="**Mʏ Nᴀᴍᴇ [𓍯✮⃝mr𝕮𝖍o𝖚𝖍𝖆𝖓✮⃝🚩⚝](https://t.me/DRM_Wizardbot)\n\nYᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴀᴄᴄᴇꜱꜱ ᴛᴏ ᴜꜱᴇ ᴛʜɪꜱ ʙᴏᴛ\nCᴏɴᴛᴀᴄᴛ [🇮🇳Jai shree Krishna 🇮🇳](tg://openmessage?user_id=8136984784) ғᴏʀ ᴀᴄᴄᴇꜱꜱ**",
+                    caption="**Mʏ Nᴀᴍᴇ [𓍯✮⃝mr𝕮𝖍o𝖚𝖍𝖆𝖓✮⃝🚩⚝](tg://openmessage?user_id=8136984784)\n\nYᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴀᴄᴄᴇꜱꜱ ᴛᴏ ᴜꜱᴇ ᴛʜɪꜱ ʙᴏᴛ\nCᴏɴᴛᴀᴄᴛ [𓍯✮⃝mrचौहान✮⃝🚩⚝](tg://openmessage?user_id=8136984784) ғᴏʀ ᴀᴄᴄᴇꜱꜱ**",
                     reply_markup=InlineKeyboardMarkup([
     [
         InlineKeyboardButton("⌯ Mr Chouhan ×͜×|", url="tg://openmessage?user_id=8136984784")
     ],
     [
-        InlineKeyboardButton("𓍯✮⃝mr𝕮𝖍o𝖚𝖍𝖆𝖓✮⃝🚩⚝", callback_data="tg://openmessage?user_id=8136984784"),
+        InlineKeyboardButton("𓍯✮⃝mrचौहान✮⃝🚩⚝", callback_data="tg://openmessage?user_id=8136984784"),
         InlineKeyboardButton("𓍯✮⃝mr𝕮𝖍o𝖚𝖍𝖆𝖓✮⃝🚩⚝", callback_data="tg://openmessage?user_id=8136984784")
     ]
 ])
@@ -345,7 +345,7 @@ async def start(bot: Client, m: Message):
         InlineKeyboardButton("⌯ Mr Chouhan ×͜×|", url="tg://openmessage?user_id=8136984784")
     ],
     [
-        InlineKeyboardButton("𓍯✮⃝mr𝕮𝖍o𝖚𝖍𝖆𝖓✮⃝🚩⚝", callback_data="tg://openmessage?user_id=8136984784"),
+        InlineKeyboardButton("𓍯✮⃝mrचौहान✮⃝🚩⚝", callback_data="tg://openmessage?user_id=8136984784"),
         InlineKeyboardButton("𓍯✮⃝mr𝕮𝖍o𝖚𝖍𝖆𝖓✮⃝🚩⚝", callback_data="tg://openmessage?user_id=8136984784")
     ]])
 )
